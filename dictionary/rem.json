@@ -1,0 +1,112 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "Yum"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "私" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "Rum"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "俺" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "似てる",
+      "entry" : {
+        "id" : 1,
+        "form" : "Yum"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "Sum"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "僕" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ {
+      "title" : "語義",
+      "text" : "「ぼくちん」なども含む"
+    } ],
+    "variations" : [ {
+      "title" : "",
+      "form" : "Rum"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "Wum"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "我", "我輩", "吾" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ {
+      "title" : "",
+      "text" : ""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "Goj"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "手" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "Tart"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "足" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "Tabe"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "見る" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "英語",
+      "text" : "「Watch」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ]
+}
