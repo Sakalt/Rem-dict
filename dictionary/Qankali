@@ -1,0 +1,848 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "na"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "一つの" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ {
+      "title" : "英語",
+      "text" : "a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "am"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "私" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "ag"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "俺", "僕", "ぼくちん" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "asi"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "わし", "わしゃの" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "ra"
+    },
+    "translations" : [ {
+      "title" : "接尾詞",
+      "forms" : [ "下,下の" ]
+    } ],
+    "tags" : [ "接尾詞" ],
+    "contents" : [ {
+      "title" : "例",
+      "text" : "奴隷 raqan"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "qan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "人" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "raqan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "奴隷" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "qankali"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "英雄" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "xi"
+    },
+    "translations" : [ {
+      "title" : "助詞",
+      "forms" : [ "は" ]
+    } ],
+    "tags" : [ "助詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "xel"
+    },
+    "translations" : [ {
+      "title" : "助詞",
+      "forms" : [ "を" ]
+    } ],
+    "tags" : [ "助詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "korn"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "リンゴ" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "cuen"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "食べる" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "注意",
+      "text" : "飲むは別。"
+    } ],
+    "variations" : [ {
+      "title" : "飲む",
+      "form" : "jaque"
+    } ],
+    "relations" : [ {
+      "title" : "似てる",
+      "entry" : {
+        "id" : 15,
+        "form" : "jaque"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "th"
+    },
+    "translations" : [ {
+      "title" : "接尾詞",
+      "forms" : [ "過去形" ]
+    } ],
+    "tags" : [ "接尾詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "ther"
+    },
+    "translations" : [ {
+      "title" : "接尾詞",
+      "forms" : [ "未来形" ]
+    } ],
+    "tags" : [ "接尾詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 15,
+      "form" : "jaque"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "飲む" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "似てる",
+      "entry" : {
+        "id" : 12,
+        "form" : "cuen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 16,
+      "form" : "kali"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "勇ましい" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 17,
+      "form" : "morta"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "メディア,ソーシャルメディア" ]
+    }, {
+      "title" : "",
+      "forms" : [ ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 18,
+      "form" : "raremimika"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "ラレミム語" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 19,
+      "form" : "iuka"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "仕掛け,ロジック" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 20,
+      "form" : "gol"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "北" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 21,
+      "form" : "moka"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "香り" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "由来",
+      "text" : "モカ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 22,
+      "form" : "mixa"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "捨てる" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 23,
+      "form" : "xavo"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "作る" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "ハヴォと。\nほかにもカヴォ,クサヴォ,サヴォと"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 24,
+      "form" : "karv"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "持つ" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 25,
+      "form" : "mixnecyye"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "鍋" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 26,
+      "form" : "kuyye"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "毒" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 27,
+      "form" : "klazcoeyia"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "共和国" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 28,
+      "form" : "cant"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "玉", "ボール", "球" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 29,
+      "form" : "tantou"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "面白い" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 30,
+      "form" : "nayvi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "缶詰め", "缶" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 31,
+      "form" : "wort"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "仕事" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 32,
+      "form" : "sad"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "かわいい" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ {
+      "title" : "ネタ",
+      "text" : "【英語変換】\n英語話者　sad?\nチャンカール語 cute?"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 33,
+      "form" : "xap"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "可愛くない", "不細工" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 34,
+      "form" : "neul"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "入れる" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 35,
+      "form" : "nachug"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "歯磨き" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 36,
+      "form" : "wart"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "洗う" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 37,
+      "form" : "amarto"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "炭酸" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 38,
+      "form" : "kanto"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "植民地" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 39,
+      "form" : "taaba"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "薬", "ドラッグ" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 40,
+      "form" : "telersi"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "帝国" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 41,
+      "form" : "kuare"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "王", "キング" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 42,
+      "form" : "kuarelsi"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "王国", "キングダム" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 43,
+      "form" : "grout"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "光" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 44,
+      "form" : "racir"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "闇" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 45,
+      "form" : "kury"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "カレー" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 46,
+      "form" : "nat"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "タコス" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 47,
+      "form" : "ramel"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "キャラメル" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 48,
+      "form" : "wort"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "単語" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ {
+      "title" : "借用",
+      "text" : "英語"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 49,
+      "form" : "jant"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "アンティーク" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 50,
+      "form" : "kornit"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "古代" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 51,
+      "form" : "zalen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "アサリ" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 52,
+      "form" : "Hota"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ホタテ" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 53,
+      "form" : "resser"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "適切な" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 54,
+      "form" : "xasistran"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "信頼" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 55,
+      "form" : "guadt"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "神" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 56,
+      "form" : "porte"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "洋紙", "ペーパー", "和紙" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 57,
+      "form" : "najue"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "髪の毛", "髪" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 58,
+      "form" : "mashut"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "髭" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 59,
+      "form" : "bain"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "脳" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 60,
+      "form" : "suam"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "鼻" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 61,
+      "form" : "myuts"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "口" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 62,
+      "form" : "myent"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "目", "左目", "右目" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ]
+}
